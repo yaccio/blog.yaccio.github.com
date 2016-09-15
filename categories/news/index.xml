@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Yacc.io</title>
+    <link>http://blog.yacc.io/categories/news/</link>
+    <description>Recent content in News on Yacc.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.yacc.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://blog.yacc.io/post/introduction/</link>
+      <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.yacc.io/post/introduction/</guid>
+      <description>&lt;p&gt;Welcome to the Yacc.io blog, we hope you will enjoy your time here.&lt;/p&gt;
+
+&lt;!-- Introduction to Yacc.io --&gt;
+
+&lt;p&gt;Yacc.io is a small software development and consultancy company based in
+Copenhagen Denmark. We have solved a large variety of software development
+tasks and have delivered a multitude of software systems to our customers. With
+technologies ranging from enterprise to open source solutions.&lt;/p&gt;
+
+&lt;!-- Introduction to blog, schedule and content  --&gt;
+
+&lt;p&gt;This blog will be dedicated to discuss software engineering and computer
+science topics that we find interesting. We will also occasionally announce
+Yacc.io related news. We will strive to release at least one post every month,
+so stay tuned!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
